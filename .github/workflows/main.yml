@@ -341,11 +341,3 @@ jobs:
       with:
         name: "${{ matrix.runner }}-${{ matrix.compiler }}-qt${{ matrix.qt }}"
         path: "${{ github.workspace }}/build/package"
-摘要
-翻译
-扩写
-重写
-解释说明
-语法
-问答
-解释代码
